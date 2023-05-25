@@ -4,7 +4,7 @@ export function Header() {
   return (
     <header className='header'>
       <div>
-        <img src='/logo.svg' alt='logo' />
+        <img src='../../public/logo.svg' alt='logo' />
       </div>
     </header>
   );
